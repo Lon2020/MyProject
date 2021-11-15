@@ -1,0 +1,13 @@
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.cache
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment_2.LoginForm.resources
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment_2.RegisterForm.resources
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment_2.AboutForm.resources
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 2 Sorakrit Wisawapakorn 13754306\Assignment 2\obj\Debug\Assignment_2.TextEditorForm.resources
