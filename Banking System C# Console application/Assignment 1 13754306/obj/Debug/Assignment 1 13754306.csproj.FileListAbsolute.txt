@@ -1,0 +1,14 @@
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 1 coding\Assignment 1 13754306\bin\Debug\Assignment 1 13754306.exe.config
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 1 coding\Assignment 1 13754306\bin\Debug\Assignment 1 13754306.exe
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 1 coding\Assignment 1 13754306\bin\Debug\Assignment 1 13754306.pdb
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 1 coding\Assignment 1 13754306\obj\Debug\Assignment 1 13754306.csproj.AssemblyReference.cache
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 1 coding\Assignment 1 13754306\obj\Debug\Assignment 1 13754306.csproj.CoreCompileInputs.cache
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 1 coding\Assignment 1 13754306\obj\Debug\Assignment 1 13754306.exe
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Assignment 1 coding\Assignment 1 13754306\obj\Debug\Assignment 1 13754306.pdb
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Sorakrit Wisawapakorn 13754306\Assignment 1 13754306\bin\Debug\Assignment 1 13754306.exe.config
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Sorakrit Wisawapakorn 13754306\Assignment 1 13754306\bin\Debug\Assignment 1 13754306.exe
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Sorakrit Wisawapakorn 13754306\Assignment 1 13754306\bin\Debug\Assignment 1 13754306.pdb
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Sorakrit Wisawapakorn 13754306\Assignment 1 13754306\obj\Debug\Assignment 1 13754306.csproj.AssemblyReference.cache
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Sorakrit Wisawapakorn 13754306\Assignment 1 13754306\obj\Debug\Assignment 1 13754306.csproj.CoreCompileInputs.cache
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Sorakrit Wisawapakorn 13754306\Assignment 1 13754306\obj\Debug\Assignment 1 13754306.exe
+C:\Users\sorak\Dropbox\My PC (LAPTOP-H7OULB2L)\Desktop\UTS\Application.NET\Sorakrit Wisawapakorn 13754306\Assignment 1 13754306\obj\Debug\Assignment 1 13754306.pdb

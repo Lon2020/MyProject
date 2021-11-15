@@ -1,0 +1,12 @@
+Account No: 28015757
+Account Balance: 10200.5
+First Name: a
+Last Name: a
+Address: a
+Phone: 123456
+Email: wisawapakorn1@gmail.com
+Existing Balance: Before Balance $9000 Deposit: $2500 After deposit: $11500 ,27/09/2021 2:15:12 AM
+Existing Balance: Before Balance $11500 Deposit: $250 After deposit: $11750 ,27/09/2021 2:16:05 AM
+Existing Balance: Before Balance $11750 Withdraw: $1750 After deposit: $10000 ,27/09/2021 2:23:36 AM
+Existing Balance: Before Balance $10000 Deposit: $100 After deposit: $10100 ,28/09/2021 8:28:01 PM
+Existing Balance: Before Balance $10100 Deposit: $100.5 After deposit: $10200.5 ,28/09/2021 8:29:01 PM

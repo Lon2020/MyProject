@@ -1,0 +1,7 @@
+Account No: 37385467
+Account Balance: 0
+First Name: asdfa
+Last Name: sdf
+Address: asdf
+Phone: 123456
+Email: sorakrit.wisawapakorn-1@student.uts.edu.au
