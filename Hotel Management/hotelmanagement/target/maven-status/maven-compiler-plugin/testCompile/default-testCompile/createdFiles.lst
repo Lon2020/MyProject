@@ -1,0 +1,5 @@
+Controller\C106_ResetPasswordTest.class
+Controller\C403_StaffCancelBookingTest.class
+Controller\C201_CreateRoomTest.class
+Controller\C301_RoomAvailabilityCheckTest.class
+Controller\C303_ConfirmBookingTest.class
