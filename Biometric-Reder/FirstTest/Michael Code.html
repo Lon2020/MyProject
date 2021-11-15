@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form onsubmit="return onSubmitFunction()">
+Enter your email: <input type="text" id="email" onChange="validateEmail()">
+<p>&nbsp;</p>
+Enter your password: <input type="text" id="password" onChange="onChangePasswordLength()">
+<p>&nbsp;</p>
+
+<button type="submit" value="Submit">Submit</button>
+</form>
+
+<script>
+function onChangePasswordLength()
+{
+	var password = document.getElementById("password").value;
+    if( password.length < 8 || password.length > 12){
+      alert("Check your password input length")
+      document.getElementById("password").value = "";
+  	}
+}
+
+function onSubmitFunction() {
+  var email = document.getElementById("email").value.toUpperCase();
+  var password = document.getElementById("password").value;
+  if(email.length === 0 || password.length === 0){
+      alert("Please fill your detail");
+      return false;
+  }
+}
+
+function validateEmail() {
+const re = /^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
+    var email = document.getElementById("email").value.toUpperCase();
+    if(!re.test(email)){
+    	alert("Fix your email format");
+    	document.getElementById("email").value = "";
+    }
+}
+
+</script>
+
+</body>
+</html>

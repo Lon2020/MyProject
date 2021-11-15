@@ -1,0 +1,30 @@
+<html>
+<body onload='document.login.password.focus()'>
+<h1>User login</h1>
+<form name="login" onsubmit= "return lengthRange()">
+<table>
+<tr><td>Email:</td><td><input type="text" name="email" placeholder="Enter email" onkeyup="this.value = this.value.toUpperCase();" onfocus="this.value=''" pattern="[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$" required></td></tr>
+<tr><td>Password:</td><td><input type="password" name="password" placeholder="Enter password" onfocus="this.value=''" required></td></tr>
+<tr><td><input type="submit" name="submit" value="Submit" onclick="return lengthRange(document.login.password,8,12)"></td></tr>
+</table>
+</form>
+<script>
+    function lengthRange(inputtxt, minlength, maxlength)
+{  	
+   var userInput = inputtxt.value;  
+   var minlength = '8';
+   var maxlength = '12';
+   
+   if(userInput.length >= minlength && userInput.length <= maxlength)
+      {  	
+        return true;  	
+      }
+   else
+      {  	
+	alert("Please input between " +minlength+ " and " +maxlength+ " characters");  		
+        return false;  	
+      }  
+}
+</script>
+</body>
+</html>
